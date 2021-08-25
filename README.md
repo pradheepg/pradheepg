@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradheepg
-- 👀 I’m interested in data science
+- 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on python data science project
 - 📫 How to reach me at pradheep1919g@gmail.com
