@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pradheepg
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning ml
-- 💞️ I’m looking to collaborate on python data science project
+- 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me at pradheep1919g@gmail.com
 
 <!---
