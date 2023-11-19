@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradheepg
 - 👀 I’m interested in artificial intelligence,web
-- 🌱 I’m currently react js
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on web(react),ML project
 - 📫 Reach me at pradheepg2004@gmail.com
 
